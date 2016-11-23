@@ -1,5 +1,3 @@
-#  [![NPM version][npm-image]][npm-url]
-
 [Bubble Sort](http://en.wikipedia.org/wiki/Bubble_sort) implementation wth O(n^2) complexity based on [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms).
 
 ## Install
