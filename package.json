@@ -1,0 +1,16 @@
+{
+  "name": "raso-bubblesort",
+  "version": "1.0.3",
+  "description": "Bubble sorting algorithm based on mgechev/javascript-algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort",
+    "bubble",
+    "sort"
+  ],
+  "author": "Rasit Ozcan <ozcanrasit@gmail.com> (http://rasitozcan.com)",
+  "license": "ISC"
+}
